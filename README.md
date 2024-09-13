@@ -1,6 +1,10 @@
 NLP Sentiment Analysis and Topic Modeling on Customer Reviews
+
 Project Overview
-This project applies Natural Language Processing (NLP) techniques to analyze customer reviews. It performs sentiment analysis to classify reviews as positive, neutral, or negative and uses topic modeling to extract common themes from the feedback. The project also includes visualizations to help better understand the sentiment trends and key topics discussed over time.
+
+This project applies Natural Language Processing (NLP) techniques to analyze customer reviews. 
+It performs sentiment analysis to classify reviews as positive, neutral, or negative and uses topic modeling to extract common themes from the feedback. 
+The project also includes visualizations to help better understand the sentiment trends and key topics discussed over time.
 
 Features
 Sentiment Analysis: Classifies each review into positive, negative, or neutral categories using TextBlob.
